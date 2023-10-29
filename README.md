@@ -24,4 +24,4 @@ Code Link
 
 hw10 and hw11 canceled
 
-[hw12](https://github.com/NTUT-CG-Lab/cg2021f-hw10-hsiaohsc)
+[hw12](https://github.com/NTUT-CG-Lab/cg2021f-hw12-hsiaohsc)
